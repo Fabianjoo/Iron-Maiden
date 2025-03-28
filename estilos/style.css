@@ -67,6 +67,7 @@ main > section >iframe{
 
 main > section > span{
     color: purple;
+    text-decoration: none;
 }
 
 main > section > p{
